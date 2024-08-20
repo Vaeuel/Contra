@@ -1,0 +1,2679 @@
+fileFormatVersion: 2
+guid: 9f1371c547d2e6f44bc7081d8fbd3894
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turret_0Deg
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2339
+        width: 100
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8035ba83f8c20ec40aa86eb96d910447
+      internalID: 443092617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_30Deg
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2339
+        width: 102
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32af8e6364e33924d9ac7c3f96746e82
+      internalID: -835522887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_60Deg
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2339
+        width: 100
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf7793cf1067d64e825d8222acd35cc
+      internalID: 1826959511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_90Deg
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2199
+        width: 100
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89788dfe88d02f84ca635e821dfd553d
+      internalID: 661678077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_120Deg
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2199
+        width: 102
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e12243f4058714aae0c84a0738f994
+      internalID: 510576495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_150Deg
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2199
+        width: 100
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df8bfb6cde869647b124877678bd230
+      internalID: 41973372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_180Deg
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2064
+        width: 100
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bdea7a132448843962d852b255fa00
+      internalID: -1359514736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_210Deg
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2064
+        width: 102
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f56064c5cbcb41ae53f05901fa080
+      internalID: -1083805646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_240Deg
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2064
+        width: 100
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64773d3c5b27718469e7ca674cf81fe6
+      internalID: 1364225169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2__Run_F1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1907
+        width: 58
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13214e4c01bec7498280a1354cc6463
+      internalID: -658404464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2__Run_F2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1907
+        width: 58
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e594a832f91824f8b116e548e4db0a
+      internalID: -1010049407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2__Run_F3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1907
+        width: 56
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd6eb8d339ed4c48935a5ba46703e68
+      internalID: -105861243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2__Run_F4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1907
+        width: 60
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbf2e4d4b7779b4d8daffa2b22b1675
+      internalID: 899406604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2__Run_F5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1907
+        width: 58
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328ef6d415ba70e4aa0c93695f6064e6
+      internalID: -811128623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2__Run_F6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1907
+        width: 53
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d98d60f8a528142b104c943fa0985a
+      internalID: 1004939692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_270Deg
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1910
+        width: 100
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edd396d1e3885e4a9fdd4a44f63bb9e
+      internalID: 1485657717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_300Deg
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1910
+        width: 102
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a31a23d41b2526459bb54498f97c890
+      internalID: -1418867287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_330Deg
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1910
+        width: 100
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f695b064a16d6e41913354ba15437f7
+      internalID: 1668778590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1894
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e13314a88897394c9f9b95b00680e72
+      internalID: 155164382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Enemy_fire
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 1906
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5f5f967e4f5a442957b94471890f8a
+      internalID: -734098222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Machine_Gun
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1904
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe90d1577ea629428e03ccf13166dd6
+      internalID: -1878071390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Spread_shot
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 1899
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153944cd5f0629343a1d432d2da42f79
+      internalID: 1802771133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Boss_Fire
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 1896
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafaf5edd87bfef42871a8dc6d16319c
+      internalID: -1961703505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Flame
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1896
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9375b840ce661944f90f592b776c7106
+      internalID: -1339740779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Vert_Laser
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1886
+        width: 23
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086fef01108f5849ae4e8752307da54
+      internalID: -904429650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Ang_Laser
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 1890
+        width: 26
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46866096348fc9d4785bf7cdae9582e2
+      internalID: -771658090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Horiz_Laser
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1899
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad388a1d7a04942846efab48b6e7e2
+      internalID: 1564416608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_For_shot_F1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1767
+        width: 80
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a6f97861c1f68418c6dd679ae1c739
+      internalID: 1451386966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_For_shot_F2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1767
+        width: 81
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d6a2f760eabea448d398ad36e5e0b7
+      internalID: -1225463207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_Jump_F1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1767
+        width: 60
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26022607bf36fec4b88819123c7158b2
+      internalID: -1982798451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_Jump_F2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1767
+        width: 58
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79071b54e7c7f1441b986a6e4eb33c61
+      internalID: -767305980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_Jump_F3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1767
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70b3531604a49745928925d4d063c2f
+      internalID: -1795763110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_Jump_F4
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1767
+        width: 60
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7f1738f5a611b4384e0972dfe5733b
+      internalID: -688251710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_Opening_F1
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1769
+        width: 100
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91682ccba9bd2b44b84641d3d65a50d8
+      internalID: -1909678699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_Opening_F2
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1768
+        width: 102
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060359d8cc60ec14fbbd32ed0fad0909
+      internalID: 911595223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Medal
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1828
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccb84a364ed77f4d8879ce4f544879f
+      internalID: 2051378117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU_Ammo_crate
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1832
+        width: 76
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48df6f55c51e4d49816d18d4dfdddd9
+      internalID: 1493611774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU_Machine_Gun
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1833
+        width: 82
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a62ee5c7c5d18544b6ce94cfeacc89e
+      internalID: -2014619896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU_Laser
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1833
+        width: 79
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044b8b94037f47144958e7f3ad107f33
+      internalID: 449916430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU_Flame_thrower
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1833
+        width: 81
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8967fe85255534693afb9976c8b2ed
+      internalID: 492811514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU_Rifle
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 1833
+        width: 78
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01b9c5007f76e4aa0332e5ed4eb57c
+      internalID: 1341290803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU_Spread
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1833
+        width: 79
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b2a5be55511d8449c5b662a490ccf0
+      internalID: -646225086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_DN_shot_F1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1630
+        width: 79
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d995aaaa2f1216640932b06f3226c231
+      internalID: -1100070608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_DN_shot_F2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1632
+        width: 81
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b32e75da448e44b915daa7433d0ccf
+      internalID: -1133810461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Ammo_F1
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1633
+        width: 100
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba0452ac54ef8498945763f9872aa2
+      internalID: -1090521032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Ammo_F2
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1633
+        width: 102
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ff5727fa7a72a4697c24b02a0841cb
+      internalID: -1292536299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Ammo_F3
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1633
+        width: 100
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746111828830b56419e0dc6f247a48e8
+      internalID: -1183022740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_Duck_F1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1630
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589b730c837ef8b4aba4914b1605c831
+      internalID: 973517170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_Duck_F2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1632
+        width: 75
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92cf54aea398ca4faf3ef5646932bca
+      internalID: -278507115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_Duck_F3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1632
+        width: 79
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22f8834174cbe4c87dd720206bf4d8
+      internalID: 922988030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_F1
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1646
+        width: 50
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628101337ef787a4f80b6658f79ca658
+      internalID: -1090174387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_F2
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1625
+        width: 94
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fff6c42d70d40e4e9a9c8200c582531
+      internalID: 1007549349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_F3
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1629
+        width: 74
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bc1dd525f2e704da29e17f81edfbc2
+      internalID: -1006093216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_F4
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1646
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536714a02db11d44a9ee3c85bb82f207
+      internalID: 898230466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_up_shot_F1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1479
+        width: 66
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed089401d594f614f8b7e79bae6d90d0
+      internalID: 909739002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_up_shot_F2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1479
+        width: 68
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586d3681351d864a9ac67ac2050daf0
+      internalID: -1626875578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1_cover_F1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1479
+        width: 61
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf1b6daaa1f973408d9f553d8570ea5
+      internalID: -1326918041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_cover_F2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1479
+        width: 60
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406ea98e8622fe44e9734904faed3b13
+      internalID: -1922043355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vert_Turret_F1
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1480
+        width: 100
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2008c572224e9944b2c94465208f3ef
+      internalID: -1570620875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vert_Turret_F2
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1480
+        width: 102
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa24b64af87f8fd4886c36466a7764b4
+      internalID: 1647973186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vert_Turret_F3
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1480
+        width: 100
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accde4fb019a50a45a2e073ffbd98286
+      internalID: -1345396868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Death_F1
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1534
+        width: 81
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63792443d2c1b0f459059ceae868e926
+      internalID: 1897645684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Death_F2
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1525
+        width: 92
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dcb6aadafe34045a6bc41c38380521
+      internalID: 1232796326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Death_F3
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1522
+        width: 100
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2adf18775642248952fe5142c166bf
+      internalID: -131481591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Run_F1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1322
+        width: 64
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79927a4d7acdad4095f4aa8aadc2c16
+      internalID: -454167868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Run_F3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1322
+        width: 61
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda7ae1dffb69f548aa145446a0f3aeb
+      internalID: 459845390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Run_F4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1322
+        width: 63
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aadfc9305779f449fdb8db14a40c47
+      internalID: -1999479735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Run_F6
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1320
+        width: 52
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acf8359105d10546a4a2e236d2f6e61
+      internalID: -994411388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_For_shot_F1
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1320
+        width: 82
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfc26bf62ec2e343b4de0c6bd1439b1
+      internalID: -227006536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Run_F
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1320
+        width: 81
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e500a9a9b395b2e43908839f299a0522
+      internalID: -116457264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_For_shot_F3
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1320
+        width: 76
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9d7deb3cdabd4184427f14d92100a
+      internalID: -1849448023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_For_shot_F4
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1321
+        width: 77
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e11cb00d55994bb74044f4f25c85c
+      internalID: -114119535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_For_shot_F5
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 1320
+        width: 81
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa5a3bb959ee254f9f0decc9de34f04
+      internalID: 1038836176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_For_shot_F6
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1320
+        width: 74
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad5e5381c9112f429d4feefd097d708
+      internalID: -1704116909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Up_shot_F
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1320
+        width: 47
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cbc48e0b83e3746b54680ac05fc479
+      internalID: -275191155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Run_F2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1322
+        width: 68
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b222966c2fbc54f8a763a5be828b92
+      internalID: 381900916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Run_F5
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1322
+        width: 67
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19a992098bbd6845b11f27124e82849
+      internalID: -820494496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Prone_shot_F1
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1321
+        width: 102
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50380d6d86414a944ab4dd2b89525fc0
+      internalID: -1978430235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Prone_shot_F2
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 1320
+        width: 102
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0792c288552c3b4b935221b25e0e5a0
+      internalID: 601433404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Up_shot_F1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1120
+        width: 65
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11526b11897c319498fbd30f7d44b971
+      internalID: -2040569153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Up_shot_F2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1118
+        width: 68
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86afe7e2ff44fc54f84ff0c988aeda09
+      internalID: 920787452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Up_shot_F3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1120
+        width: 55
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e52f4a6f0ee0342a7a499ca196456a
+      internalID: 259597525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Up_shot_F4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1120
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d8961ad9a4ece41b2f8576eee93e96
+      internalID: -1577047973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Up_shot_F5
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1119
+        width: 63
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d57b0781fd63f43838e0b1681433e5
+      internalID: 136921349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Up_shot_F6
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1119
+        width: 54
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8142e0ed0bf86d84b841bad11fcda967
+      internalID: 473125238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_DN_shot_F1
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1119
+        width: 70
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89e9dd86ca2685439915df7f8200e76
+      internalID: -1040547276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_DN_shot_F2
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1118
+        width: 67
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef63235364b2d4880e925919cd7779
+      internalID: -188975580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_DN_shot_F3
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1120
+        width: 67
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d084bf195de1214ea188965cf1eaab0
+      internalID: -658746840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_DN_shot_F4
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1118
+        width: 72
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905fb45e0cb7ff94fab5af68b2a25e86
+      internalID: -1491257555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_DN_shot_F5
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1119
+        width: 73
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ab7bf671c2dd40a91371e3cb329c2
+      internalID: 1232187898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_DN_shot_F6
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1120
+        width: 67
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cdd3212e54c0b4baa809ce4b899c05
+      internalID: 1815177684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Jump_F1
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1139
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac2015123e5579438fc11478ed75dd3
+      internalID: -853129616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Jump_F2
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 1149
+        width: 63
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a0db647d227947aa36520c84d46eb
+      internalID: -1840474113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Jump_F3
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1142
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35396a9d9cf4a4b43beb6fe77eebf235
+      internalID: 2112886198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Jump_F4
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 1145
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c2b8417aa96944a8e27952b0e8261
+      internalID: -1899798486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Water_shot_F1
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 957
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5c0c2d20844943941322c7507a6fa
+      internalID: -804643821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Water_shot_F2
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 957
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820455b8a63c2784694cf1df92c25b94
+      internalID: 29730645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Water_shot_Ang_F1
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 957
+        width: 71
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a53da86e8925e647940f80b6be56625
+      internalID: -1845920521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Water_shot_Ang_F2
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 957
+        width: 71
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b040e4d046c211468d74877099822a0
+      internalID: -156947718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Water_shot_Up_F1
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 957
+        width: 58
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc3fd28c1c1494085a32082ed9e9ec
+      internalID: -1400343849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Water_shot_Up_F2
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 957
+        width: 58
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca6551789ba454aab659d8ff8589f4
+      internalID: 169271914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Splash
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 944
+        width: 53
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50f9b5f0cbf32149aff4de07bae68c2
+      internalID: -651209301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_water_walk_F1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 958
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d1ab8a26aca754ea3647b6d6bea8c9
+      internalID: 2146915856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_water_walk_F2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 958
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10cb229acab4ae4f9f3c189e6245619
+      internalID: 957657916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Water_Duck_F1
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 963
+        width: 57
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9183174958ebfe44d8578192ea9ebf96
+      internalID: 2128867911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Water_Duck_F2
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 965
+        width: 57
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8113a87967ecefb4e957df220fcfd61b
+      internalID: -878390600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Death_F1
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 944
+        width: 70
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f014b206051e34ea68918a98afd182
+      internalID: -621870249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Death_F2
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 934
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcafa574a82636f469d684d80de215c6
+      internalID: 951019771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Death_F3
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 941
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed2e912b2199d42b28cad783fa2113
+      internalID: -914908231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Death_F4
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 938
+        width: 50
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0533d6b0f0217fc48abed6cf6f29f637
+      internalID: 649424137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Death_F5
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 723
+        width: 106
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a53d8ee85dcd6f4db362b1d43937bb1
+      internalID: 615445254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1828
+        width: 139
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3f772ffdf622d40877a753358429e1
+      internalID: -1062466498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1_Up_shot_
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 1321
+        width: 47
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd936c3811966c49869129c04c232ae
+      internalID: 1637168130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      E1_DN_shot_F1: -1100070608
+      E1_DN_shot_F2: -1133810461
+      E1_Duck_F1: 973517170
+      E1_Duck_F2: -278507115
+      E1_Duck_F3: 922988030
+      E1_For_shot_F1: 1451386966
+      E1_For_shot_F2: -1225463207
+      E1_cover_F1: -1326918041
+      E1_up_shot_F1: 909739002
+      E1_up_shot_F2: -1626875578
+      E2_Jump_F1: -1982798451
+      E2_Jump_F2: -767305980
+      E2_Jump_F3: -1795763110
+      E2_Jump_F4: -688251710
+      E2__Run_F1: -658404464
+      E2__Run_F2: -1010049407
+      E2__Run_F3: -105861243
+      E2__Run_F4: 899406604
+      E2__Run_F5: -811128623
+      E2__Run_F6: 1004939692
+      E2_cover_F2: -1922043355
+      Enemy_Death_F1: 1897645684
+      Enemy_Death_F2: 1232796326
+      Enemy_Death_F3: -131481591
+      Explosion_F1: -1090174387
+      Explosion_F2: 1007549349
+      Explosion_F3: -1006093216
+      Explosion_F4: 898230466
+      Game_Over: -1062466498
+      Health_Medal: 2051378117
+      Main sheet_10: -1894028654
+      Main sheet_100: -1722947180
+      Main sheet_101: 220049674
+      Main sheet_118: -1716636468
+      Main sheet_119: -1595902519
+      Main sheet_120: -666338317
+      Main sheet_121: 1295981251
+      Main sheet_122: 1081468018
+      Main sheet_123: 75360711
+      Main sheet_124: -374738689
+      Main sheet_125: -342731832
+      Main sheet_126: 624072936
+      Main sheet_127: 1074814555
+      Main sheet_128: 83362260
+      Main sheet_129: 40471802
+      Main sheet_130: 1188186977
+      Main sheet_131: -1968406854
+      Main sheet_132: -1084933505
+      Main sheet_133: 279514999
+      Main sheet_135: 1216884284
+      Main sheet_137: -854170868
+      Main sheet_138: -752845863
+      Main sheet_15: 1098381268
+      Main sheet_20: 155164382
+      Main sheet_39: -1352343092
+      Main sheet_40: 1055868213
+      Main sheet_41: -238336374
+      Main sheet_48: 1150269233
+      Main sheet_50: 85662628
+      Main sheet_51: 2137786284
+      Main sheet_52: 536068183
+      Main sheet_74: -557783565
+      Main sheet_75: -1822356411
+      Main sheet_76: -2067650264
+      Main sheet_77: -546414609
+      Main sheet_78: 792505148
+      Main sheet_87: 139700590
+      Main sheet_94: -658220413
+      Main sheet_95: 309777828
+      Main sheet_98: 645236131
+      Main sheet_99: 681771175
+      P1_DN_shot_F1: -1040547276
+      P1_DN_shot_F2: -188975580
+      P1_DN_shot_F3: -658746840
+      P1_DN_shot_F4: -1491257555
+      P1_DN_shot_F5: 1232187898
+      P1_DN_shot_F6: 1815177684
+      P1_Death_F1: -621870249
+      P1_Death_F2: 951019771
+      P1_Death_F3: -914908231
+      P1_Death_F4: 649424137
+      P1_Death_F5: 615445254
+      P1_For_shot_F1: -227006536
+      P1_For_shot_F3: -1849448023
+      P1_For_shot_F4: -114119535
+      P1_For_shot_F5: 1038836176
+      P1_For_shot_F6: -1704116909
+      P1_Jump_F1: -853129616
+      P1_Jump_F2: -1840474113
+      P1_Jump_F3: 2112886198
+      P1_Jump_F4: -1899798486
+      P1_Prone_shot_F1: -1978430235
+      P1_Prone_shot_F2: 601433404
+      P1_Run_F: -116457264
+      P1_Run_F1: -454167868
+      P1_Run_F2: 381900916
+      P1_Run_F3: 459845390
+      P1_Run_F4: -1999479735
+      P1_Run_F5: -820494496
+      P1_Run_F6: -994411388
+      P1_Splash: -651209301
+      P1_Up_shot_: 1637168130
+      P1_Up_shot_F: -275191155
+      P1_Up_shot_F1: -2040569153
+      P1_Up_shot_F2: 920787452
+      P1_Up_shot_F3: 259597525
+      P1_Up_shot_F4: -1577047973
+      P1_Up_shot_F5: 136921349
+      P1_Up_shot_F6: 473125238
+      P1_Water_Duck_F1: 2128867911
+      P1_Water_Duck_F2: -878390600
+      P1_Water_shot_Ang_F1: -1845920521
+      P1_Water_shot_Ang_F2: -156947718
+      P1_Water_shot_F1: -804643821
+      P1_Water_shot_F2: 29730645
+      P1_Water_shot_Up_F1: -1400343849
+      P1_Water_shot_Up_F2: 169271914
+      P1_water_walk_F1: 2146915856
+      P1_water_walk_F2: 957657916
+      PU_Ammo_crate: 1493611774
+      PU_Flame_thrower: 492811514
+      PU_Laser: 449916430
+      PU_Machine_Gun: -2014619896
+      PU_Rifle: 1341290803
+      PU_Spread: -646225086
+      Projectile_Ang_Laser: -771658090
+      Projectile_Boss_Fire: -1961703505
+      Projectile_Enemy_fire: -734098222
+      Projectile_Flame: -1339740779
+      Projectile_Horiz_Laser: 1564416608
+      Projectile_Machine_Gun: -1878071390
+      Projectile_Spread_shot: 1802771133
+      Projectile_Vert_Laser: -904429650
+      Turret_0Deg: 443092617
+      Turret_120Deg: 510576495
+      Turret_150Deg: 41973372
+      Turret_180Deg: -1359514736
+      Turret_210Deg: -1083805646
+      Turret_240Deg: 1364225169
+      Turret_270Deg: 1485657717
+      Turret_300Deg: -1418867287
+      Turret_30Deg: -835522887
+      Turret_330Deg: 1668778590
+      Turret_60Deg: 1826959511
+      Turret_90Deg: 661678077
+      Turret_Opening_F1: -1909678699
+      Turret_Opening_F2: 911595223
+      Vert_Turret_F1: -1570620875
+      Vert_Turret_F2: 1647973186
+      Vert_Turret_F3: -1345396868
+      Wall_Ammo_F1: -1090521032
+      Wall_Ammo_F2: -1292536299
+      Wall_Ammo_F3: -1183022740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
