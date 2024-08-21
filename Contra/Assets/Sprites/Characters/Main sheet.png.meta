@@ -1585,7 +1585,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P1_Run_F
+      name: P1_For_shot_F2
       rect:
         serializedVersion: 2
         x: 1555
@@ -2602,6 +2602,7 @@ TextureImporter:
       P1_Death_F4: 649424137
       P1_Death_F5: 615445254
       P1_For_shot_F1: -227006536
+      P1_For_shot_F2: -116457264
       P1_For_shot_F3: -1849448023
       P1_For_shot_F4: -114119535
       P1_For_shot_F5: 1038836176
@@ -2612,7 +2613,6 @@ TextureImporter:
       P1_Jump_F4: -1899798486
       P1_Prone_shot_F1: -1978430235
       P1_Prone_shot_F2: 601433404
-      P1_Run_F: -116457264
       P1_Run_F1: -454167868
       P1_Run_F2: 381900916
       P1_Run_F3: 459845390
