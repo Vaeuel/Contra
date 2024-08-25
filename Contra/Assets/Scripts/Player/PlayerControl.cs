@@ -23,6 +23,8 @@ public class PlayerControl : MonoBehaviour
     private bool isGrounded = false; 
     private bool inWater = false;
     private bool inDeath = false;
+    private bool isDown = false;
+    private bool isFiring = false;
 
     // Start is called before the first frame update
     void Start()
@@ -49,15 +51,43 @@ public class PlayerControl : MonoBehaviour
         if (groundCheckRadius <= 0) Debug.Log("groundCHeckRadius too low");
     }
 
+    void ResetBools()
+    {
+        isDown = false;
+        isFiring = false;
+    }
+
     // Update is called once per frame
     void Update()
     {
         surfaceType();
+        
 
         float hInput = Input.GetAxis("Horizontal"); // Creates float Variable called hInput, assigns value based on input from the "horizontal" axis (unity input manager).
-        //float vInput = Input.GetAxis("Verticle");
+        float vInput = Input.GetAxis("Vertical");
 
         rb.velocity = new Vector2(hInput * speed, rb.velocity.y);
+
+        if (vInput <= -0.1f)
+        {
+            isDown = true;
+        }
+        else if (vInput >= 0)
+        {
+            isDown = false;
+        }
+        anim.SetFloat("vInput", Mathf.Abs(vInput));
+        anim.SetBool("IsDown", isDown);
+
+        if (Input.GetButtonDown("Fire2"))
+        {
+            isFiring = true;
+        }
+        else if (Input.GetButtonUp("Fire2"))
+        {
+            isFiring = false;
+        }
+            anim.SetBool("IsFiring", isFiring);
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
@@ -66,12 +96,16 @@ public class PlayerControl : MonoBehaviour
 
         // Sprite flipping
         if (hInput != 0) sr.flipX = (hInput < 0); // if hInput does not = 0 then sprite renderer flip x will equal true or false based on inputed value +1 or -1
+        
+        //ResetBools();
 
         // Sets the Animator parameters to match and effectively be linked to this script
         anim.SetFloat("hInput", Mathf.Abs(hInput)); // Mathf.Abs() converts negative numbers into positive numbers. For the purpose of transitions all that's needed is yes or no
         anim.SetBool("IsGrounded", isGrounded); // Links the script bool variable to the animator logic bool.
         anim.SetBool("InWater", inWater);
         anim.SetBool("InDeath", inDeath);
+
+
     }
     void surfaceType() // Creates a Function called "surfaceType"
     {   if (!isGrounded) // Checks if isGrounded Global Variable is false, if not grounded (making this if == true) then move to nested if below.
